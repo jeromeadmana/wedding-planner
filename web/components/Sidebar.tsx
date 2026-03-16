@@ -16,11 +16,11 @@ const navItems: NavItem[] = [
   { href: "/budget",           label: "Budget",        icon: "₱" },
   { href: "/vendors",          label: "Vendors",       icon: "🏪" },
   { href: "/timeline",         label: "Timeline",      icon: "📅" },
-  { href: "/checklist",        label: "Checklist",     icon: "✓",  soon: true },
-  { href: "/seating",          label: "Seating",       icon: "🪑",  soon: true },
-  { href: "/website",          label: "Event Website", icon: "🌐",  soon: true },
-  { href: "/shots",            label: "Saya Shots",    icon: "📷",  soon: true },
-  { href: "/ai",               label: "AI Tools",      icon: "✨",  soon: true },
+  { href: "/checklist",        label: "Checklist",     icon: "✓", soon: true },
+  { href: "/seating",          label: "Seating",       icon: "🪑", soon: true },
+  { href: "/website",          label: "Event Website", icon: "🌐", soon: true },
+  { href: "/shots",            label: "Saya Shots",    icon: "📷", soon: true },
+  { href: "/ai",               label: "AI Tools",      icon: "✨", soon: true },
 ]
 
 export default function Sidebar() {
