@@ -20,6 +20,7 @@ const navItems: NavItem[] = [
   { href: "/seating",          label: "Seating",       icon: "🪑" },
   { href: "/website",          label: "Event Website", icon: "🌐" },
   { href: "/shots",            label: "Saya Shots",    icon: "📷" },
+  { href: "/billing",          label: "Billing",       icon: "💳" },
   { href: "/ai",               label: "AI Tools",      icon: "✨", soon: true },
 ]
 
