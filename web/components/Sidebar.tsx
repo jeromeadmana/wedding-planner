@@ -18,7 +18,7 @@ const navItems: NavItem[] = [
   { href: "/timeline",         label: "Timeline",      icon: "📅" },
   { href: "/checklist",        label: "Checklist",     icon: "✓" },
   { href: "/seating",          label: "Seating",       icon: "🪑" },
-  { href: "/website",          label: "Event Website", icon: "🌐", soon: true },
+  { href: "/website",          label: "Event Website", icon: "🌐" },
   { href: "/shots",            label: "Saya Shots",    icon: "📷" },
   { href: "/ai",               label: "AI Tools",      icon: "✨", soon: true },
 ]
