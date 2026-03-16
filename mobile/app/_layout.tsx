@@ -13,7 +13,7 @@ const tabs: { name: string; title: string; icon: IoniconName; activeIcon: Ionico
   { name: "guests",   title: "Guests",      icon: "people-outline",     activeIcon: "people" },
   { name: "budget",   title: "Budget",      icon: "wallet-outline",     activeIcon: "wallet" },
   { name: "vendors",  title: "Vendors",     icon: "storefront-outline", activeIcon: "storefront" },
-  { name: "timeline", title: "Timeline",    icon: "calendar-outline",   activeIcon: "calendar" },
+  { name: "photos",   title: "Saya Shots", icon: "camera-outline",     activeIcon: "camera" },
 ]
 
 function AppLayout() {
