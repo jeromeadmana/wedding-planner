@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js
+web/.next/
+web/out/
+web/.vercel
+
+# Env files — never commit secrets
+.env
+.env.local
+.env.*.local
+web/.env
+web/.env.local
+mobile/.env
+mobile/.env.local
+
+# Expo
+mobile/.expo/
+mobile/dist/
+
+# Build outputs
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AI / Claude
+.claude/
+
+# Editor
+.vscode/
+*.swp
+
+# Logs
+*.log
+npm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
