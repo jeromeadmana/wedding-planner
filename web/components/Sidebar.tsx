@@ -21,7 +21,7 @@ const navItems: NavItem[] = [
   { href: "/website",          label: "Event Website", icon: "🌐" },
   { href: "/shots",            label: "Saya Shots",    icon: "📷" },
   { href: "/billing",          label: "Billing",       icon: "💳" },
-  { href: "/ai",               label: "AI Tools",      icon: "✨", soon: true },
+  { href: "/ai",               label: "AI Tools",      icon: "✨" },
 ]
 
 export default function Sidebar() {
